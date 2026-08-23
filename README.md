@@ -10,14 +10,23 @@ The goal of this repository is to keep useful AI/DevOps scripts in one place—s
 The repository may include scripts for:
 
 🤖 Installing AI agents and AI tools
+
 ⚙️ Configuring AI development environments
+
 🔄 Updating and maintaining AI tooling
+
 🧹 Removing or cleaning up AI agents
+
 🐧 Linux system administration
+
 🔨 DevOps automation
+
 📦 Installing and managing dependencies
+
 🔐 Managing permissions and system configuration
+
 🧪 Testing and troubleshooting AI environments
+
 🎯 Purpose
 
 This repository is primarily a personal toolbox for automating repetitive tasks related to AI and DevOps.
