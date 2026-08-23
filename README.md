@@ -83,19 +83,33 @@ Then run it according to the instructions provided for that script.
 As the repository grows, scripts can be organized into categories such as:
 
 small-scripts-4-ai/
+
 ├── README.md
+
 ├── agents/
+
 │   ├── install/
+
 │   ├── remove/
+
 │   └── configure/
+
 ├── devops/
+
 │   ├── docker/
+
 │   ├── kubernetes/
+
 │   └── vagrant/
+
 ├── linux/
+
 │   ├── networking/
+
 │   ├── storage/
+
 │   └── system/
+
 └── utilities/
 
 The structure is intentionally flexible and can evolve as more scripts are added.
