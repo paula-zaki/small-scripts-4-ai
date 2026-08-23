@@ -64,6 +64,7 @@ Individual scripts may have additional requirements, which should be documented 
 Clone the repository:
 
 git clone https://github.com/paula-zaki/small-scripts-4-ai.git
+
 cd small-scripts-4-ai
 
 Before running a script, inspect it and check its documentation:
