@@ -38,11 +38,17 @@ Instead of manually repeating installation and configuration steps, I use small 
 The scripts in this repository follow a few simple principles:
 
 Keep it small — Prefer focused scripts over complicated frameworks.
+
 Automate repetitive tasks — If I have to do something repeatedly, script it.
+
 Be reproducible — The same script should produce the same expected result.
+
 Prefer clarity over cleverness — Scripts should be understandable and maintainable.
+
 Fail safely — Avoid making destructive changes without appropriate checks.
+
 Document the important stuff — Explain why something is required, especially when dealing with Linux, networking, permissions, or virtualization.
+
 
 🐧 Environment
 ---------------
